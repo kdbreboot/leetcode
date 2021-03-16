@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void main(){
-    printf("kdbreboot\n");
+void main(void){
+    printf("hello, world\n");
 }
